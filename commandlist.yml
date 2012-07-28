@@ -1,0 +1,14 @@
+# {"キーワード"  =>["正式名称", "アイコンのファイル名", "コマンド"]}
+emacs:
+- Emacs
+- emacs.png
+- emacs23
+gedit:
+- gedit
+- gedit.png
+- gedit
+home:
+- home
+- user-home.svg
+- nautilus ~/
+
